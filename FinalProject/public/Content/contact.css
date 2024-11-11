@@ -1,0 +1,17 @@
+.container {
+    max-width: 150px; /* Adjust as necessary */
+    padding: 30px; /* Add some padding */
+  }
+  
+  .contact {
+    padding: 70px 0; /* Add some vertical space */
+  }
+  
+  .contactItems {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+  }
+  
+  .contactItem {
+    margin: 20px 0; /* Space between contact items */
+  }
