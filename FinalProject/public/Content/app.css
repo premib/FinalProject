@@ -30,3 +30,14 @@ html, body {
     text-align: center;
     margin: 20px 0;
 }
+/* Styling the hero button */
+.hero-button {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #ffffff; /* Text color */
+    background-color: #3498db; /* Button color - change to fit your design */
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
