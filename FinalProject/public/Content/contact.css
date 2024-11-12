@@ -3,9 +3,8 @@
   max-width: 800px; /* Increase width for better layout */
   padding: 30px; /* Add padding around the content */
   margin: 0 auto; /* Center the container */
-  background-color: #f9f9f9; /* Optional: Add background color */
-  border-radius: 8px; /* Optional: Add rounded corners */
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
+  background-color: #f9f9f9;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
   box-sizing: border-box;
 }
 
